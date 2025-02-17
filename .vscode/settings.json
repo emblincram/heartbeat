@@ -1,0 +1,18 @@
+{
+  "editor.codeActionsOnSave": {},
+  "doxdocgen.file.copyrightTag": [
+    "@copyright Copyright (c) {year} Roman Koch",
+    "SPDX-License-Identifier: MIT"
+  ],
+  "doxdocgen.generic.authorName": "Roman Koch",
+  "doxdocgen.generic.authorEmail": "koch.roman@gmail.com",
+  "doxdocgen.generic.useGitUserEmail": true,
+  "doxdocgen.generic.useGitUserName": true,
+  "doxdocgen.c.commentPrefix": " * ",
+  "doxdocgen.file.fileOrder": ["file", "author", "empty", "copyright"],
+  "doxdocgen.generic.order": ["brief", "empty", "tparam", "param", "return"],
+  "cmake.generator": "Ninja",
+  "files.autoGuessEncoding": false,
+  "C_Cpp.autoAddFileAssociations": false,
+  "files.associations": {}
+}
